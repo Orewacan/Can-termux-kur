@@ -5,7 +5,7 @@ pkg install git -y
 
 Daha sonra da şu kodu yazınız :
 
-git clone https://github.com/ilgazos/Termux-Kurulum
+git clone https://github.com/Orewacan/Can-termux-kur
 
 İndirme bittikten sonra :
 
