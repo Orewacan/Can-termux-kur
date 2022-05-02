@@ -11,12 +11,10 @@ git clone https://github.com/Orewacan/Can-termux-kur
 
 ls
 
-Yazarak dosya inmiş mi diye kontrol ediniz 
-
-
+Yazarak dosya inmiş mi diye kontrol ediniz.
 Eğer bir sorun yoksa :
 
-cd Termux-Kurulum
+cd Can-termux-kur
 
 Yazın daha sonra 
 
@@ -26,4 +24,4 @@ Yazın tekrar içerikleri görüntüleyin daha sonra
 
 bash TermuxKurulum.sh
 
-Yazıp programı başlatın 
+Yazıp programı başlatın.
